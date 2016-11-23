@@ -13,7 +13,6 @@ namespace US.WordProcessor
           *       the best way that you see fit.  Remember, design is a factor in
           *       our evaluation.
           */
-
          throw new NotImplementedException();
       }      
    }   
